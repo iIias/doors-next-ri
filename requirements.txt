@@ -1,0 +1,7 @@
+# Copyright IBM Corp. 2025
+flask
+flask_cors
+python-dotenv
+langchain
+gunicorn
+langchain-ibm

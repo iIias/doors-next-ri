@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module specificationVersion="2.0">
+<ModulePrefs title="DOORS Next Requirements Intelligence" height="800" scrolling="true">
+	<Require feature="com.ibm.rdm.rm.api"/>
+</ModulePrefs>
+<Content type="html" href="/index.html">
+</Content>
+</Module>
