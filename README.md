@@ -2,7 +2,7 @@
 
 *By Devang Parikh, Daniel Moul and Bhawana Gupta*
 
-This example demonstrates the integration of a Watsonx Assistant with DOORS Next, which enables someone to ask questions about the requirements in a DOORS Next module, making use of a Watsonx.ai hosted large language model. For an overview of this scenario, see the blog post ***TODO: add link here***
+This example demonstrates the integration of a Watsonx Assistant with DOORS Next, which enables someone to ask questions about the requirements in a DOORS Next module, making use of a Watsonx.ai hosted large language model. For an overview of this scenario, see the  [blog post](https://community.ibm.com/community/user/sustainability/blogs/daniel-moul/2025/02/13/requirements-ai-assistant-for-doors-next)
 
 # Steps
 
@@ -94,7 +94,7 @@ On the left side menu select General and copy `Project ID` to use later.
 Create a [Watsonx Assistant Service](https://cloud.ibm.com/catalog/services/watsonx-assistant) 
 After creating the service, launch the Watsonx Assistant.\
 Go through the wizard to Create your first assistant.\
-In the Personalize section, Select Where do you plan on deploying assistant.\
+In the Personalize section, Select Where do you plan on deploying assistant.Select Web\
 Optionally In the Customize section, optionally change the look and feel of your chat UI.\
 In the Preview section, click create.\
 After the Assistant is created successfully, On left hand side menu under Build click on Actions\
