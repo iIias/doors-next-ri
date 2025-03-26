@@ -45,7 +45,7 @@ https://github.com/ibm/doors-next-ri
 
 ## 2. Configure IBM Cloud Services
 
-In your web browser go to [IBM cloud](https://cloud.ibm.com/). If you don't already have an account, create one.
+In your web browser go to [IBM cloud](https://cloud.ibm.com/). If you don't already have an account, create one. You may have to provide Credit Card to create services in IBM cloud.
 
 Now you will provision the services necessary to enable this scenario.
 
