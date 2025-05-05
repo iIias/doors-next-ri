@@ -15,7 +15,7 @@ COPY ./requirements.txt /app/requirements.txt
 #
 RUN pip3 install --no-cache-dir --upgrade -r /app/requirements.txt
 
-COPY ./.env /app/.env
+#COPY ./.env /app/.env
 #
 COPY ./src /app/src
 COPY ./public /app/public
