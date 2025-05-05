@@ -30,4 +30,4 @@ def post_query_requirement():
 
 
 if __name__ == '__main__':
-    app.run(ssl_context=('dng-ri.crt', 'dng-ri.key'),port=8443,host='0.0.0.0')
+    app.run(port=8443,host='0.0.0.0')
